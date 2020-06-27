@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-## __________________________________________________________________________________________________________________________ ##
+## _______________________________________________________________________________________________________________ ##
 
 ## District Summary ##
 After replacing the reading and math scores for ninth graders at Thomas High School 
@@ -18,8 +18,7 @@ these were the changes that we observed in the School Summary:
 * Griffin High School moved up from the third best performing school to the second best performing school
 * The bottom five schools were unaffected
 
-_______________________________________________________________________________________________________________________________
-
+__________________________________________________________________________________________________________________
 ## Math and Reading Scores by Grade ##
 
 
