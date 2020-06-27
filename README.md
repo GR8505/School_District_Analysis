@@ -24,7 +24,7 @@ ________________________________________________________________________________
   It is now Shelton High School.
 * The top 5 and bottom 5 schools for ninth graders reading scores are unaffected.
 
-
+__________________________________________________________________________________________________________________
 ## Scores by School Spending ##
 * For the spending range of ($630-$644) per student, we recorded the following changes in scores:
   1) The % Passing Math fell from 73% to 67%
