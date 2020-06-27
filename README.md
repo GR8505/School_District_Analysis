@@ -6,9 +6,9 @@
 After replacing the reading and math scores for ninth graders at Thomas High School 
 these were the changes that we observed in the District Summary:
 * Average Math score decreased from 79 to 78.9
-* % Passing Math score decreased from 75% to 74%
-* % Passing Reading score decreased from 86% to 85%
-* % Overall Passing score decreased from 65% to 64%
+* % Passing Math decreased from 75% to 74%
+* % Passing Reading decreased from 86% to 85%
+* % Overall Passing decreased from 65% to 64%
 
 
 ## School Summary ##
