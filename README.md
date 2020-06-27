@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-## _______________________________________________________________________________________________________________ ##
+## _____________________________________________________________________________________________________ ##
 
 ## District Summary ##
 After replacing the reading and math scores for ninth graders at Thomas High School 
