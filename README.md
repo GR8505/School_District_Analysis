@@ -1,8 +1,10 @@
 # School District Analysis
 ____________________________________________________________________________________
 
+The following results were obtained using the following [code](https://github.com/GR8505/School_District_Analysis/blob/master/PyCitySchools_Challenge.ipynb).
+
 ## District Summary ##
-After replacing the reading and math scores for ninth graders at Thomas High School 
+After replacing the reading and math scores for ninth graders at Thomas High School, 
 these were the changes that we observed in the District Summary:
 * Average Math score decreased from 79 to 78.9
 * % Passing Math decreased from 75% to 74%
@@ -11,7 +13,7 @@ these were the changes that we observed in the District Summary:
 
 
 ## School Summary ##
-After replacing the reading and math scores for ninth graders at Thomas High School
+After replacing the reading and math scores for ninth graders at Thomas High School,
 these were the changes that we observed in the School Summary:
 * Thomas High School is no longer in the top 5 performing schools
 * Griffin High School moved up from the third best performing school to the second best performing school
@@ -19,9 +21,9 @@ these were the changes that we observed in the School Summary:
 
 __________________________________________________________________________________________________________________
 ## Math and Reading Scores by Grade ##
-* Thomas High School is no longer has the third highest math score for ninth graders.  
+* Thomas High School no longer has the third highest math score for ninth graders.  
   It is now Shelton High School.
-* The top 5 and bottom 5 schools for ninth graders reading scores are unaffected.
+* The top 5 and bottom 5 schools for ninth graders reading scores were unaffected.
 
 __________________________________________________________________________________________________________________
 ## Scores by School Spending ##
